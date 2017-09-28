@@ -1,0 +1,13 @@
+aiofiles==0.3.1
+httptools==0.0.9
+sanic==0.5.4
+ujson==1.35
+uvloop==0.8.0
+websockets==3.4
+
+py==1.4.31
+pytest==3.0.2
+pytest-cov==2.3.1
+pytest-env==0.6.0
+coverage==4.2
+aiohttp==2.2.0

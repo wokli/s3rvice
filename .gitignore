@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+.cache
+__pycache__
+*.log
+.coverage
+htmlcov
+Jenkins*
